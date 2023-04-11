@@ -1,0 +1,18 @@
+/* Print style sheet */
+@media print{
+
+    body{
+        background: none;
+        font-family: serif;
+        font-size: 1.5em;
+    }
+
+    a[href] ::after{
+        content: " " attr(href);
+    }
+
+    video{
+        display: none;
+    }
+
+}

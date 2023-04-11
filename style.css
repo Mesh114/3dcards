@@ -1,4 +1,9 @@
 /* style sheet */
 body{
     background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+video{
+    border: 10px solid black;
 }
