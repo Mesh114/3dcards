@@ -2,7 +2,7 @@
 
 > Extend your education 
 
-3D cards for Dept of Design Certificates.
+**3D** cards for [Dept of Design](https://www.ewu.edu/cstem/design/) Certificates.
 
 ## Certificates
 
@@ -10,3 +10,4 @@
 - Game Design
 - Mental Health
 - "Adulting"
+
